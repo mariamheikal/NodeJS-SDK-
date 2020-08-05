@@ -1,0 +1,24 @@
+{
+  "name": "mh-sdk-samples",
+  "version": "1.5.1",
+  "description": "NodeJS SDK sample for Gameball  APIs",
+  "keywords": [],
+  "homepage": "",
+  "author": "",
+  "main": "index",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "https-proxy-agent": "^5.0.0",
+    "mh-nodejs-sdk": "^1.5.7",
+    "mongoose": "^5.9.25",
+    "pad2": "^1.0.0",
+    "validatorjs": "^3.18.1"
+  }
+}

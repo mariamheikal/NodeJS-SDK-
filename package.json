@@ -1,0 +1,41 @@
+{
+  "name": "trial-nodejs-sdk",
+  "version": "0.1.0",
+  "description": "NodeJS SDK",
+  "main": "index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "keywords": [
+    "gameball",
+    "nodejs",
+    "node",
+    "sdk"
+  ],
+  "author": "Mariam Heikal <mariamheikal228@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "got": "^10.6.0",
+    "https": "^1.0.0",
+    "https-proxy-agent": "^5.0.0",
+    "mongoose": "^5.9.25",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2",
+    "sha1": "^1.1.1",
+    "util": "^0.12.3",
+    "validatorjs": "^3.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariamheikal/NodeJS-SDK-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariamheikal/NodeJS-SDK-/issues"
+  },
+  "homepage": "https://github.com/mariamheikal/NodeJS-SDK-#readme"
+}
