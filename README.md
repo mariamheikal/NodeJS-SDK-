@@ -2,10 +2,10 @@
 ---
 The Gameball NodeJS SDK provides convinient access to the Gameball API frpm applicatopns written in the JavaScript langauage. 
 ## Documentation
----
+
 Please refer to the  [Gameball API docs](https://docs.gameball.co).
 ## Installation
----
+
 You don't need this source code unless you want to modify the SDK. If you just
 want to use the SDK, just run:
 ```js
@@ -13,7 +13,7 @@ npm install gameball-nodejs-sdk
 ```
 ### Requirements
 ## Usage
----
+
 The SDK needs to be configured with your account's API & Transaction keys available in your [Gameball Dashboard](https://help.gameball.co/en/articles/3467114-get-your-account-integration-details-api-key-and-transaction-key)
 
 Require 'gameball-nodejs-sdk' in your file
@@ -176,9 +176,9 @@ Gameball.ReverseHold({
 ### Handling exceptions
 Unsuccessful requests raise exceptions. The raised exception will reflect the sort of error that occurred with appropriate message and error code . Please refer to the  [Gameball API docs](https://docs.gameball.co).
 ## Contribution
----
+
 The master branch of this repository contains the latest stable release of the SDK.
 ## Contact
----
+
 For usage questions\suggestions drop us an email at support[ at ]gameball.co. Please report any bugs as issues.
 
