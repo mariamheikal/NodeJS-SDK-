@@ -1,5 +1,5 @@
 # **Gameball NodeJS SDK**
----
+
 The Gameball NodeJS SDK provides convinient access to the Gameball API frpm applicatopns written in the JavaScript langauage. 
 ## Documentation
 
